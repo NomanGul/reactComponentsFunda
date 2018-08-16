@@ -1,0 +1,32 @@
+.App-logo {
+  animation: App-logo-spin infinite 5s linear;
+  height: 60px;
+}
+
+.App-intro {
+  font-size: large;
+}
+/* .chip-we-are-united {
+  position: static;
+  display: block !important;
+} */
+
+.code{
+  color: white;
+  background-color: rgb(39, 39, 39);
+}
+.author-card{
+  cursor: pointer;
+}
+.jobs {
+  display: inline !important;
+  font-weight: 900;
+}
+.q{
+  margin-top: 10%;
+}
+
+@keyframes App-logo-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
